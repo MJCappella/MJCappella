@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MJCappella&theme=highcontrast&dates=blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MJCappella&theme=highcontrast&dates=green)](https://git.io/streak-stats)
 
 ### Hi there 👋
 
