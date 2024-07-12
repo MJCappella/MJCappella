@@ -5,4 +5,4 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/MJCappella)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJCappella&show_icons=true&theme=radical)](https://github.com/MJCappella)
