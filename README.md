@@ -1,5 +1,5 @@
 ## Michael James ( Delta-J Creations )
-<p>Want to keep in touch? : https://michaeljames.netlify.app</p>
+[x] Want to keep in touch? : <a href="https://michaeljames.netlify.app">Portfolio</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MJCappella&theme=chartreuse-dark&dates=white&fire=red)](https://git.io/streak-stats)
 
