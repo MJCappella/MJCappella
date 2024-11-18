@@ -70,3 +70,4 @@
 <!--   aws -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>         
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MJCappella&label=Profile%20views&color=0e75b6&style=flat" alt="MJCappella" /> </p>
